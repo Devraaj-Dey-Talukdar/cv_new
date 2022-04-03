@@ -1,0 +1,28 @@
+body {
+    background-color: #FFFDDE;
+}
+/*img{
+  background-color: white;
+}*/
+h1{
+  color: #FFC107;
+  font-size: 45px;
+}
+h2{
+  color: #716F81;
+}
+h3{
+  color: #6D8299;
+}
+hr {
+    background-color: #F0F0F0;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    border-color: grey;
+    width: 5%;
+}
+/***********************************************CLASS SELECTORS**************************/
+/* ."classname"{
+background-color:......;
+}
